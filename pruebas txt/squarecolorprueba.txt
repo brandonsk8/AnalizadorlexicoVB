@@ -1,0 +1,14 @@
+Module PruebaSquareColor
+    Dim color1 As String
+    Dim color2 As String
+    color1 = "#FF33FF"
+    color2 = "#00FF00"
+    
+    ' Prueba  de Square.Color en diferentes posiciones
+    Square.Color(#FF33FF, 1, 1)
+    Square.Color(#00FF00, 2, 2)
+    Square.Color(#0000FF, 3, 3)
+    Square.Color(#FFFF00, 4, 4)
+    Square.Color(#FF00FF, 5, 5)
+    Square.Color(#00FFFF, 6, 6)
+End Module

@@ -1,0 +1,6 @@
+Module Calculadora
+Dim resultado As Boolean
+resultado = (5 * 3 > 10) And (4 Mod 2 = 0)
+If Not resultado Then
+    resultado = True
+End If

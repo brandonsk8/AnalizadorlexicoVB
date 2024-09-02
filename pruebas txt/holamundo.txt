@@ -1,0 +1,9 @@
+Module Prueba
+Dim x As Integer
+Dim y As String
+y = "Hola Mundo"
+If x > 10 Then
+    x = x + 1
+Else
+    x = x - 1
+End If
